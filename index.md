@@ -12,7 +12,8 @@ are also built into its apt repositories for Debian and Ubuntu.
 
 If you have any issues with a particular package, please submit a github
 issue for that package.  If you would like to request adding a new
-package, please send it to [cvmfs-talk@cern.ch](mailto:cvmfs-talk@cern.ch).
+package or have a question about the cvmfs-contrib project as a whole,
+please send it to [cvmfs-talk@cern.ch](mailto:cvmfs-talk@cern.ch).
 Membership in that mailing list is managed through the 
 [CERN groups manager](https://groups.cern.ch/Pages/GroupSearch.aspx?k=cvmfs-talk)
 
