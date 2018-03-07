@@ -15,7 +15,7 @@ issue for that package.  If you would like to request adding a new
 package or have a question about the cvmfs-contrib project as a whole,
 please send it to [cvmfs-talk@cern.ch](mailto:cvmfs-talk@cern.ch).
 Membership in that mailing list is managed through the 
-[CERN groups manager](https://groups.cern.ch/Pages/GroupSearch.aspx?k=cvmfs-talk)
+[CERN groups manager](https://groups.cern.ch/Pages/GroupSearch.aspx?k=cvmfs-talk).
 
 ### Enabling installing from cvmfs-contrib yum repositories
 
