@@ -4,8 +4,8 @@ cvmfs-contrib is a place for collecting software packages related to
 the [CernVM Filesystem](https://cernvm.cern.ch/portal/filesystem)
 (CVMFS) that are contributed by the community and not supported by the
 CVMFS development team.  It is hosted both on a
-[github organization](https://github.io/cvmfs-contrib) and on an
-[OpenSUSE Build System (OBS) project](https://build.opensuse.org/project/show/home:cvmfs).
+[github organization](https://github.com/cvmfs-contrib) and on an
+[OpenSUSE Build Service (OBS) project](https://build.opensuse.org/project/show/home:cvmfs).
 The packages are built into the OBS project's yum repositories for
 Redhat Enterprise Linux and derivatives, and in some cases packages
 are also built into its apt repositories for Debian and Ubuntu.
