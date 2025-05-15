@@ -6,7 +6,7 @@ the [CernVM Filesystem](https://cernvm.cern.ch/portal/filesystem)
 CVMFS development team.  It is hosted both on a
 [github organization](https://github.com/cvmfs-contrib) and on an
 [OpenSUSE Build Service (OBS) project](https://build.opensuse.org/project/show/home:cvmfs).
-The packages are built into the OBS project's yum repositories for
+The packages are built into the OBS project's dnf repositories for
 Redhat Enterprise Linux and derivatives, and in some cases packages
 are also built into its apt repositories for Debian and Ubuntu.
 
@@ -17,13 +17,13 @@ please send it to [cvmfs-talk@cern.ch](mailto:cvmfs-talk@cern.ch).
 Membership in that mailing list is managed through the 
 [CERN groups manager](https://groups.cern.ch/Pages/GroupSearch.aspx?k=cvmfs-talk).
 
-### Enabling installing from cvmfs-contrib yum repositories
+### Enabling installing from cvmfs-contrib dnf repositories
 
-In order to enable installing from the cvmfs-contrib yum repository
+In order to enable installing from the cvmfs-contrib dnf repository
 run the following command:
 
 ```
-sudo yum install -y https://ecsft.cern.ch/dist/cvmfs/cvmfs-contrib-release/cvmfs-contrib-release-latest.noarch.rpm
+sudo dnf install -y https://ecsft.cern.ch/dist/cvmfs/cvmfs-contrib-release/cvmfs-contrib-release-latest.noarch.rpm
 ```
 
 ### Enabling installing from cvmfs-contrib apt repositories
